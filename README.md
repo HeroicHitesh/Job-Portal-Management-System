@@ -18,7 +18,7 @@ This is a Data Base Management System that helps in managing the data of a Job P
 
 **Note**: You have to click on `phpmyadmin` button on wamp server home page and import `job.sql` file into the `phpmyadmin` panel. For database to work properly.
 
-*Username*: root
+*Username*: root  
 *Password*:
 
 **If you like the project please, star the repository. And for any doubts create an issue, I will try to resolve it ASAP.**
